@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vilma.evborn\\Documents\\Visual Studio 2022\\Prog 2\\Mini-Inventory\\Mini-Inventory\\Mini-Inventory.csproj": {}
+    "c:\\Users\\vilma.evborn\\Documents\\Visual Studio 2022\\Prog 2\\Mini-Inventory\\Mini-Inventory\\Mini-Inventory.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vilma.evborn\\Documents\\Visual Studio 2022\\Prog 2\\Mini-Inventory\\Mini-Inventory\\Mini-Inventory.csproj": {
+    "c:\\Users\\vilma.evborn\\Documents\\Visual Studio 2022\\Prog 2\\Mini-Inventory\\Mini-Inventory\\Mini-Inventory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vilma.evborn\\Documents\\Visual Studio 2022\\Prog 2\\Mini-Inventory\\Mini-Inventory\\Mini-Inventory.csproj",
+        "projectUniqueName": "c:\\Users\\vilma.evborn\\Documents\\Visual Studio 2022\\Prog 2\\Mini-Inventory\\Mini-Inventory\\Mini-Inventory.csproj",
         "projectName": "Mini-Inventory",
-        "projectPath": "C:\\Users\\vilma.evborn\\Documents\\Visual Studio 2022\\Prog 2\\Mini-Inventory\\Mini-Inventory\\Mini-Inventory.csproj",
+        "projectPath": "c:\\Users\\vilma.evborn\\Documents\\Visual Studio 2022\\Prog 2\\Mini-Inventory\\Mini-Inventory\\Mini-Inventory.csproj",
         "packagesPath": "C:\\Users\\vilma.evborn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vilma.evborn\\Documents\\Visual Studio 2022\\Prog 2\\Mini-Inventory\\Mini-Inventory\\obj\\",
+        "outputPath": "c:\\Users\\vilma.evborn\\Documents\\Visual Studio 2022\\Prog 2\\Mini-Inventory\\Mini-Inventory\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
