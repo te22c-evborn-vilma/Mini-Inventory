@@ -6,8 +6,8 @@ public class Character
 
     public Character()
     {
-        Hp = 80;
-        Name = "X";
+        // Hp = 80;
+        // Name = "X";
 
         Backpack = new();
 

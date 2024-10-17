@@ -2,7 +2,7 @@
 
 newChar.Backpack.Display();
 
-Armor armor = new(){Name = "Helmet", Weight = 14f};
+Armor armor = new() {Name = "Helmet", Weight = 14f};
 
 Console.WriteLine($"You found a(n) {armor.Name} on the ground. Would you like to pick it up? [ yes | no ]");
 
