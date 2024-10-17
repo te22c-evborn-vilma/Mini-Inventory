@@ -8,6 +8,12 @@ Console.WriteLine($"You found a(n) {armor.Name} on the ground. Would you like to
 
 string answer = Console.ReadLine();
 
+while (answer != "yes" && answer != "no")
+{
+    Console.WriteLine($"You found a(n) {armor.Name} on the ground. Would you like to pick it up? [ yes | no ]");
+    answer = Console.ReadLine();
+}
+
 if (answer == "yes")
 {
     newChar.Backpack.Items.Add(armor);
