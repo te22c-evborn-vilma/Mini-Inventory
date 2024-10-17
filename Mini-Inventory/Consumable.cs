@@ -3,11 +3,11 @@ public class Consumable : Item
     public int UsesMax;
     public int UsesCurrent;
 
-    static void Use(Character target)
+    public void Use(Character target)
     {
         if (UsesCurrent < UsesMax)
         {
-            Character.Hp += 10;
+            target.Hp += 10;
             UsesCurrent++;
         }
     }
